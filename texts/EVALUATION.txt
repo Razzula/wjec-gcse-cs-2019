@@ -1,0 +1,13 @@
+In conclusion, the program made meets all of the required objectives set at the beginning of the project. It can enter and store the title, reading age, keywords and the text content; calculate the number of characters, words and sentences in the text; use the ARI to calculate  the actual reading age; store the text details, text and actual reading age in a file, output the intended reading age and calculated age of the text, and allow for other teachers to search for the text using keywords and reasing age. On top of this, it can also do helpful functions that weren�t mandatory. For example, an authentication system is in place to prevent unathorised access to the application.
+AGE:16
+KEYWORD:EVALUATION
+KEYWORD:REPORT
+KEYWORD:TEST
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

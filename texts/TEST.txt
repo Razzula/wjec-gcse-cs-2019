@@ -1,0 +1,13 @@
+The purpose of this project is to create a program that can calculate the reading age of a piece of text, using the ARI formula, and store the reading age, name of text, the text itself and any keywords, in a database that can be accessed by other teachers, so that teachers can store and locate texts based off of their keywords or reading ages. In order to do this, the program will require several inputs. These will either be pre-stored in the program, calculated from other inputs, or stored in files that can be accessed by the program. The program will need to carry out some processes and calculations in order to work, and The program will also need to do validation checks, to ensure it works smoothly.
+AGE:16
+KEYWORD:TEST
+KEYWORD:EXAMPLE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
